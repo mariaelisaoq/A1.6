@@ -8,6 +8,6 @@ Utilizaremos el archivo de nombre “A1.6 Tiempo de Entrega.csv”, donde podrá
 
 Este proyecto incluye los siguientes documentos:
 
-- [Reporte en formato ipynb]
-- [Reporte en formato html]
+- [Reporte en formato ipynb](A1.6.ipynb)
+- [Reporte en formato html](A1.6.html)
 - [Base de datos](A1.6TiempodeEntrega.csv)
